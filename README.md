@@ -1,25 +1,34 @@
-<h1 align="center">Hi 👋, I'm Satyajeet Singh</h1>
-<h3 align="center">I'm a flexible full-stack developer who combines strong front-end skills with solid back-end expertise. I enjoy solving problems, learning new things, and working well with teams to create innovative solutions.</h3>
+## नमस्ते 🙏
 
-- 🔭 I’m currently working on [webvitels](https://github.com/opsatya/webvitels)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/satyajeet-singh)](https://www.linkedin.com/in/satyajeet-singh)
+[![](https://img.shields.io/badge/Portfolio-satyajeetsingh.netlify.app-orange)](https://satyajeetsingh.netlify.app)
+[![](https://img.shields.io/badge/Resume-View-blue)](https://satyajeetsingh.netlify.app/myResume.pdf)
+[![](https://img.shields.io/badge/Gmail-satyjeet.singh12005%40gmail.com-red)](mailto:satyjeet.singh12005@gmail.com)
 
-- 🌱 I’m currently learning **spring and spring boot ,DSA, Devops, Data science**
-
-- 👨‍💻 All of my projects are available at [satya005.netlify.app](satya005.netlify.app)
-
-- 💬 Ask me about **React, tailwind, JavaScript, NodeJS, Express, MongoDB**
-
-- 📫 How to reach me **satyjeet.singh12005@gmail.com**
-
-- 📄 Know about my experiences [https://satya005.netlify.app/src/pdf/SATYA-RESUME.pdf](https://satya005.netlify.app/src/pdf/SATYA-RESUME.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyajeet singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyajeet singh" height="30" width="40" /></a>
-<a href="https://instagram.com/_webvitels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_webvitels" height="30" width="40" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/opsatya/count.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+```javascript
+const Satyajeet = {
+    pronouns: "He" | "Him",
+    code: ["Python", "JavaScript", "SQL", "Java"],
+    askMeAbout: ["Data Science", "ML", "Web Dev", "Cloud", "DevOps", "Open Source"],
+    technologies: {
+        dataScience: ["scikit-learn", "PyTorch", "pandas", "NumPy", "Matplotlib"],
+        ML: ["CNN", "Transformers", "LLMs"],
+        webDev: ["React.js", "Node.js", "Express.js", "REST APIs"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "BigQuery"],
+        infra: ["Docker", "Kubernetes", "AWS EC2/S3/Lambda", "CI/CD"],
+        tools: ["Jupyter", "Google Colab", "VSCode", "Git", "Linux"]
+    },
+    funFact: "Still learning, always curious 🚀"
+};
+```
+[![Satyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=opsatya&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/opsatya)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opsatya&show_icons=true&locale=en&layout=compact" alt="opsatya" /></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> — if you want to say <b>hi</b>, feel free to reach out! I'll be happy to chat 🚀</em>
+
+⭐️ From [opsatya](https://github.com/opsatya)
+
