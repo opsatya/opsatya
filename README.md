@@ -15,11 +15,13 @@ Passionate about solving real-world problems through technology and continuously
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=opsatya\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=opsatya\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=opsatya\&theme=dark\&hide_border=true)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opsatya&theme=dark&hide_border=true&include_all_commits=false&count_private=false&card_width=460) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opsatya&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=460) |
+|---:|:---|
 
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=opsatya&theme=dark&hide_border=true&card_width=977)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=opsatya\&icon=0\&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=opsatya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
