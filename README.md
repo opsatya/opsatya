@@ -1,6 +1,7 @@
 # 💫 About Me:
-I design and build end-to-end intelligent systems — from scalable backend architectures to AI-powered applications.<br>I blend software engineering, data science, and cloud-native DevOps to solve real-world problems at scale.<br>My focus is on creating systems that are robust, efficient, and adaptable for the future of tech.<br>I’m not just writing code — I’m engineering solutions that merge innovation with impact.<br><br>
-
+Aspiring Data Scientist and Software Developer with strong foundations in machine learning, data analysis,<br>
+and cloud-native application deployment. Experienced in building and deploying end-to-end ML solutions using Python, SQL, AWS, and Docker. <br> 
+Passionate about solving real-world problems through technology and continuously learning in fast-paced environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajeet-singh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/opsatyaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyajeet.singh12005@gmail.com) 
